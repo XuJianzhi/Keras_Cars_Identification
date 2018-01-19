@@ -1,5 +1,6 @@
 
-
+#https://github.com/XuJianzhi/Keras_Cars_Identification/edit/master/car_pred.py
+#XuJianzhi 2018.1.17
 from keras.models import Sequential
 from keras.layers.core import Flatten, Dense, Dropout
 from keras.layers.convolutional import Conv2D, Convolution2D, MaxPooling2D, ZeroPadding2D
